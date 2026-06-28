@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-THE_SELF_DESCRIBING_SEED",
+  "name": "THE SELF-DESCRIBING SEED · SDS",
+  "universe": "GLŌSSA",
+  "moniker": "⟦THE SELF-DESCRIBING SEED · SDS:the-self-describing-seed:d44f84⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "d44f84efa7b389ef957586131af6d729be73fb546fff619fcaa2f4a0d6098101",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
